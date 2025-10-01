@@ -54,7 +54,8 @@ Each file contains 1000 sentences with binary labels.
   - Testing Accuracy ≈ **65%**
 
 - **Fine-tuned embeddings**:  
-  - Accuracy improves with training (still around mid-60s, depending on epochs).  
+  - Training Accuracy ≈ **100%** 
+  - Testing Accuracy ≈ **81%**  
 
 These results are reasonable given the **small dataset size** and **simple model architecture**.
 
